@@ -9,22 +9,30 @@
             margin: 0;
             padding: 0;
             background-color: #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         .page {
-            width: 100vw;
-            height: 100vh;
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
+            width: 100%;
+            max-width: 800px; /* Ajuste conforme necessário */
+            height: auto;
+            display: block;
+            margin-bottom: 20px;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            display: block;
         }
     </style>
 </head>
 <body>
-    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0001.jpg');"></div>
-    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0002.jpg');"></div>
-    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0003.jpg');"></div>
-    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0004.jpg');"></div>
-    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0005.jpg');"></div>
-    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0006.jpg');"></div>
+    <img class="page" src="GESTANTE_2025_Limpo_page-0001.jpg" alt="Página 1">
+    <img class="page" src="GESTANTE_2025_Limpo_page-0002.jpg" alt="Página 2">
+    <img class="page" src="GESTANTE_2025_Limpo_page-0003.jpg" alt="Página 3">
+    <img class="page" src="GESTANTE_2025_Limpo_page-0004.jpg" alt="Página 4">
+    <img class="page" src="GESTANTE_2025_Limpo_page-0005.jpg" alt="Página 5">
+    <img class="page" src="GESTANTE_2025_Limpo_page-0006.jpg" alt="Página 6">
 </body>
 </html>
