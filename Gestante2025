@@ -20,11 +20,11 @@
     </style>
 </head>
 <body>
-    <div class="page" style="background-image: url('/mnt/data/GESTANTE_2025_Limpo_page-0001.jpg');"></div>
-    <div class="page" style="background-image: url('/mnt/data/GESTANTE_2025_Limpo_page-0002.jpg');"></div>
-    <div class="page" style="background-image: url('/mnt/data/GESTANTE_2025_Limpo_page-0003.jpg');"></div>
-    <div class="page" style="background-image: url('/mnt/data/GESTANTE_2025_Limpo_page-0004.jpg');"></div>
-    <div class="page" style="background-image: url('/mnt/data/GESTANTE_2025_Limpo_page-0005.jpg');"></div>
-    <div class="page" style="background-image: url('/mnt/data/GESTANTE_2025_Limpo_page-0006.jpg');"></div>
+    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0001.jpg');"></div>
+    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0002.jpg');"></div>
+    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0003.jpg');"></div>
+    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0004.jpg');"></div>
+    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0005.jpg');"></div>
+    <div class="page" style="background-image: url('GESTANTE_2025_Limpo_page-0006.jpg');"></div>
 </body>
 </html>
